@@ -1,2 +1,1 @@
-export const message = 'hey mom';
-console.log(message);
+export * from './message';
