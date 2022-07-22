@@ -2,7 +2,7 @@
   "name": "hey-mom",
   "version": "1.0.1",
   "description": "say hey mom",
-  "main": "index.js",
+  "main": "./dist/src/index.js",
   "repository": {
     "url": "git://github.com/yuyakinjo/hey-mom"
   },
