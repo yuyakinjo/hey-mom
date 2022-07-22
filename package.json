@@ -4,7 +4,8 @@
   "description": "say hey mom",
   "main": "index.js",
   "scripts": {
-    "hey": "ts-node src/index.ts"
+    "hey": "ts-node src/index.ts",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
