@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "say hey mom",
   "main": "index.js",
+  "repository": {
+    "url": "git://github.com/yuyakinjo/hey-mom"
+  },
   "scripts": {
     "hey": "ts-node src/index.ts",
     "start": "npm run hey",
