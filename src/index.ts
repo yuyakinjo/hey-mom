@@ -1,1 +1,1 @@
-export * from './message';
+export const message = 'hey mom';
