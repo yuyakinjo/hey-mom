@@ -16,7 +16,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@types/jest": "^28.1.6",
     "jest": "^28.1.3",
